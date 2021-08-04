@@ -1,7 +1,7 @@
-$PROJECT_URI='https://github.com/philhu22/image-enhancers-AWSRN.git'
+PROJECT_URI='https://github.com/philhu22/image-enhancers-AWSRN.git'
 
 apt-get update
-apt-get install wget
+apt-get install git
 
-wget "$PROJECT_URI"
+git clone "$PROJECT_URI"
 
