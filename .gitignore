@@ -64,6 +64,10 @@ target/
 *.txt
 *.swp
 
+*.zip
+venv/
+
 # this project
 DATA/
+
 

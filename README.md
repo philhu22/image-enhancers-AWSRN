@@ -1,3 +1,5 @@
+Copied from  https://github.com/ChaofWang/AWSRN
+
 # Lightweight Image Super-Resolution with Adaptive Weighted Learning Network
 
 Chaofeng Wang, Zhen Li and Jun Shi, "Lightweight Image Super-Resolution with Adaptive Weighted Learning Network", [[arXiv]](https://arxiv.org/abs/1904.02358) 
